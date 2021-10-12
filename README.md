@@ -2,7 +2,7 @@
 # **Readme-Generator**
 
 
-![GitHub License](https://img.shields.io/badge/license-MIT -blue.svg)
+![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## **Project Title**
 
@@ -15,7 +15,6 @@ This app is made to create a note taking experience to list your ideas
 ## **Application**
 
 Bootcamp project
-To create a dynamic README for future repositories and to showcase the usage and terms.
 
 ## **Table of Contents**
 
@@ -33,10 +32,6 @@ To create a dynamic README for future repositories and to showcase the usage and
 
 npm install -> npm start
 Instructions for running the program to generate a readme file in VSCODE
-
-    1. Update node.js
-    2. install inquirer
-    3. run node Index.js in command line
 
 
 ## Usage Information
